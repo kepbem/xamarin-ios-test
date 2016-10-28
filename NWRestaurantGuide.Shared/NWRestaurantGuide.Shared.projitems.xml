@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <MSBuildAllProjects>$(MSBuildAllProjects);$(MSBuildThisFileFullPath)</MSBuildAllProjects>
+    <HasSharedItems>true</HasSharedItems>
+    <SharedGUID>{6AA47A1E-5F45-4F4F-A298-1D5B353C2940}</SharedGUID>
+  </PropertyGroup>
+  <PropertyGroup Label="Configuration">
+    <Import_RootNamespace>NWRestaurantGuide.Shared</Import_RootNamespace>
+  </PropertyGroup>
+  <ItemGroup>
+    <Compile Include="$(MSBuildThisFileDirectory)ViewModels\BaseViewModel.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)ViewModels\DetailsViewModel.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)ViewModels\RestaurantFilterViewModel.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Helpers\DateTimeUtils.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Helpers\GeolocationUtils.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Helpers\ResourceLoader.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Helpers\ServiceContainer.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Models\Location.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Models\OperatingHours.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Models\Photos.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Models\Place.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Models\Queries.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Models\Reviews.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="$(MSBuildThisFileDirectory)ViewModels\" />
+    <Folder Include="$(MSBuildThisFileDirectory)Helpers\" />
+    <Folder Include="$(MSBuildThisFileDirectory)Models\" />
+  </ItemGroup>
+</Project>

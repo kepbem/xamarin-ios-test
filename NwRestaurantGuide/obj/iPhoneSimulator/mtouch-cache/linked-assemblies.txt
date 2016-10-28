@@ -1,0 +1,11 @@
+/Users/paulmccauley/Desktop/NWRestaurantGuide/Components/googleiossignin-4.0.0.0/samples/SignInExample/SignInExample/obj/iPhoneSimulator/Debug/mtouch-cache/Link/Xamarin.iOS.dll
+/Users/paulmccauley/Desktop/NWRestaurantGuide/Components/googleiossignin-4.0.0.0/samples/SignInExample/SignInExample/obj/iPhoneSimulator/Debug/mtouch-cache/Link/Mono.Dynamic.Interpreter.dll
+/Users/paulmccauley/Desktop/NWRestaurantGuide/Components/googleiossignin-4.0.0.0/samples/SignInExample/SignInExample/obj/iPhoneSimulator/Debug/mtouch-cache/Link/Google.SignIn.dll
+/Users/paulmccauley/Desktop/NWRestaurantGuide/Components/googleiossignin-4.0.0.0/samples/SignInExample/SignInExample/obj/iPhoneSimulator/Debug/mtouch-cache/Link/SignInExample.exe
+/Users/paulmccauley/Desktop/NWRestaurantGuide/Components/googleiossignin-4.0.0.0/samples/SignInExample/SignInExample/obj/iPhoneSimulator/Debug/mtouch-cache/Link/Google.Core.dll
+/Users/paulmccauley/Desktop/NWRestaurantGuide/Components/googleiossignin-4.0.0.0/samples/SignInExample/SignInExample/obj/iPhoneSimulator/Debug/mtouch-cache/Link/System.Xml.dll
+/Users/paulmccauley/Desktop/NWRestaurantGuide/Components/googleiossignin-4.0.0.0/samples/SignInExample/SignInExample/obj/iPhoneSimulator/Debug/mtouch-cache/Link/System.dll
+/Users/paulmccauley/Desktop/NWRestaurantGuide/Components/googleiossignin-4.0.0.0/samples/SignInExample/SignInExample/obj/iPhoneSimulator/Debug/mtouch-cache/Link/Firebase.InstanceID.dll
+/Users/paulmccauley/Desktop/NWRestaurantGuide/Components/googleiossignin-4.0.0.0/samples/SignInExample/SignInExample/obj/iPhoneSimulator/Debug/mtouch-cache/Link/mscorlib.dll
+/Users/paulmccauley/Desktop/NWRestaurantGuide/Components/googleiossignin-4.0.0.0/samples/SignInExample/SignInExample/obj/iPhoneSimulator/Debug/mtouch-cache/Link/System.Core.dll
+/Users/paulmccauley/Desktop/NWRestaurantGuide/Components/googleiossignin-4.0.0.0/samples/SignInExample/SignInExample/obj/iPhoneSimulator/Debug/mtouch-cache/Link/Firebase.Analytics.dll

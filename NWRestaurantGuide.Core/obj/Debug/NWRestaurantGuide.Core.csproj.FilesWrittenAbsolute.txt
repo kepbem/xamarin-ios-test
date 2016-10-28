@@ -1,0 +1,16 @@
+/Users/paulmccauley/Desktop/NWRestaurantGuide/NWRestaurantGuide.Core/obj/Debug/.NETPortable,Version=v4.5,Profile=Profile111.AssemblyAttribute.cs
+/Users/paulmccauley/Desktop/NWRestaurantGuide/NWRestaurantGuide.Core/obj/Debug/NWRestaurantGuide.Core.App.xaml
+/Users/paulmccauley/Desktop/NWRestaurantGuide/NWRestaurantGuide.Core/obj/Debug/NWRestaurantGuide.Core.App.xaml.g.cs
+/Users/paulmccauley/Desktop/NWRestaurantGuide/NWRestaurantGuide.Core/bin/Debug/NWRestaurantGuide.Core.dll.mdb
+/Users/paulmccauley/Desktop/NWRestaurantGuide/NWRestaurantGuide.Core/bin/Debug/NWRestaurantGuide.Core.dll
+/Users/paulmccauley/Desktop/NWRestaurantGuide/NWRestaurantGuide.Core/obj/Debug/NWRestaurantGuide.Core.dll
+/Users/paulmccauley/Desktop/NWRestaurantGuide/NWRestaurantGuide.Core/obj/Debug/NWRestaurantGuide.Core.dll.mdb
+/Users/paulmccauley/Desktop/NWRestaurantGuide/NWRestaurantGuide.Core/bin/Debug/UXDivers.Artina.Shared.dll
+/Users/paulmccauley/Desktop/NWRestaurantGuide/NWRestaurantGuide.Core/bin/Debug/UXDivers.Artina.Shared.iOS.dll
+/Users/paulmccauley/Desktop/NWRestaurantGuide/NWRestaurantGuide.Core/bin/Debug/Xamarin.Forms.Core.dll
+/Users/paulmccauley/Desktop/NWRestaurantGuide/NWRestaurantGuide.Core/bin/Debug/Xamarin.Forms.Platform.dll
+/Users/paulmccauley/Desktop/NWRestaurantGuide/NWRestaurantGuide.Core/bin/Debug/Xamarin.Forms.Xaml.dll
+/Users/paulmccauley/Desktop/NWRestaurantGuide/NWRestaurantGuide.Core/bin/Debug/System.Net.Http.Extensions.dll
+/Users/paulmccauley/Desktop/NWRestaurantGuide/NWRestaurantGuide.Core/bin/Debug/System.Net.Http.Primitives.dll
+/Users/paulmccauley/Desktop/NWRestaurantGuide/NWRestaurantGuide.Core/bin/Debug/Microsoft.WindowsAzure.Mobile.dll
+/Users/paulmccauley/Desktop/NWRestaurantGuide/NWRestaurantGuide.Core/bin/Debug/Newtonsoft.Json.dll

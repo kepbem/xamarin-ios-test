@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>com.apple.actool.compilation-results</key>
+	<dict>
+		<key>output-files</key>
+		<array>
+			<string>/Users/paulmccauley/Desktop/NWRestaurantGuide/Components/googleiossignin-4.0.0.0/samples/SignInExample/SignInExample/obj/iPhoneSimulator/Debug/actool/bundle/Assets.car</string>
+		</array>
+	</dict>
+	<key>com.apple.actool.document.warnings</key>
+	<array>
+		<dict>
+			<key>affected-items</key>
+			<array>
+				<string>./LaunchImage.launchimage/(null)[2d][Default-568h@2x.png.png]</string>
+				<string>./LaunchImage.launchimage/(null)[2d][Default@2x.png.png]</string>
+			</array>
+			<key>catalog</key>
+			<string>/Users/paulmccauley/Desktop/NWRestaurantGuide/Components/googleiossignin-4.0.0.0/samples/SignInExample/SignInExample/Resources/Images.xcassets</string>
+			<key>message</key>
+			<string>The launch image set "LaunchImage" has 2 unassigned children.</string>
+			<key>type</key>
+			<string>Ambiguous Content</string>
+		</dict>
+		<dict>
+			<key>affected-items</key>
+			<array>
+				<string>./LaunchImage.launchimage/[iphone][][2x][portrait][full-screen][7.0]</string>
+			</array>
+			<key>catalog</key>
+			<string>/Users/paulmccauley/Desktop/NWRestaurantGuide/Components/googleiossignin-4.0.0.0/samples/SignInExample/SignInExample/Resources/Images.xcassets</string>
+			<key>message</key>
+			<string>The file "Default@2x.png" for the image set "LaunchImage" does not exist.</string>
+			<key>type</key>
+			<string>Missing Content</string>
+		</dict>
+		<dict>
+			<key>affected-items</key>
+			<array>
+				<string>./LaunchImage.launchimage/[iphone][retina4][2x][portrait][full-screen][7.0]</string>
+			</array>
+			<key>catalog</key>
+			<string>/Users/paulmccauley/Desktop/NWRestaurantGuide/Components/googleiossignin-4.0.0.0/samples/SignInExample/SignInExample/Resources/Images.xcassets</string>
+			<key>message</key>
+			<string>The file "Default-568h@2x.png" for the image set "LaunchImage" does not exist.</string>
+			<key>type</key>
+			<string>Missing Content</string>
+		</dict>
+		<dict>
+			<key>affected-items</key>
+			<array>
+				<string>./AppIcon.appiconset/(null)[2d][AppIcon-60@2x.png.png]</string>
+				<string>./AppIcon.appiconset/(null)[2d][AppIcon-60@3x.png.png]</string>
+				<string>./AppIcon.appiconset/(null)[2d][AppIcon-76@2x.png.png]</string>
+			</array>
+			<key>catalog</key>
+			<string>/Users/paulmccauley/Desktop/NWRestaurantGuide/Components/googleiossignin-4.0.0.0/samples/SignInExample/SignInExample/Resources/Images.xcassets</string>
+			<key>message</key>
+			<string>The app icon set "AppIcon" has 3 unassigned children.</string>
+			<key>type</key>
+			<string>Ambiguous Content</string>
+		</dict>
+		<dict>
+			<key>affected-items</key>
+			<array>
+				<string>./AppIcon.appiconset/[][ipad][76x76][][][2x]</string>
+			</array>
+			<key>catalog</key>
+			<string>/Users/paulmccauley/Desktop/NWRestaurantGuide/Components/googleiossignin-4.0.0.0/samples/SignInExample/SignInExample/Resources/Images.xcassets</string>
+			<key>message</key>
+			<string>The file "AppIcon-76@2x.png" for the image set "AppIcon" does not exist.</string>
+			<key>type</key>
+			<string>Missing Content</string>
+		</dict>
+		<dict>
+			<key>affected-items</key>
+			<array>
+				<string>./AppIcon.appiconset/[][iphone][60x60][][][3x]</string>
+			</array>
+			<key>catalog</key>
+			<string>/Users/paulmccauley/Desktop/NWRestaurantGuide/Components/googleiossignin-4.0.0.0/samples/SignInExample/SignInExample/Resources/Images.xcassets</string>
+			<key>message</key>
+			<string>The file "AppIcon-60@3x.png" for the image set "AppIcon" does not exist.</string>
+			<key>type</key>
+			<string>Missing Content</string>
+		</dict>
+		<dict>
+			<key>affected-items</key>
+			<array>
+				<string>./AppIcon.appiconset/[][iphone][60x60][][][2x]</string>
+			</array>
+			<key>catalog</key>
+			<string>/Users/paulmccauley/Desktop/NWRestaurantGuide/Components/googleiossignin-4.0.0.0/samples/SignInExample/SignInExample/Resources/Images.xcassets</string>
+			<key>message</key>
+			<string>The file "AppIcon-60@2x.png" for the image set "AppIcon" does not exist.</string>
+			<key>type</key>
+			<string>Missing Content</string>
+		</dict>
+	</array>
+</dict>
+</plist>
